@@ -1,0 +1,14 @@
+.language {
+  font-size: 3em;
+  border-bottom: 1px solid;
+  padding-bottom: 20px;
+  max-width: 20ch;
+  min-width: 7ch;
+  overflow-wrap: anywhere;
+  line-height: normal;
+  margin: 25px auto;
+}
+
+.responseText {
+  font-size: 2em;
+}

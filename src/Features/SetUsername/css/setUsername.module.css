@@ -1,0 +1,39 @@
+form {
+  padding: 15px 0 0;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+input {
+  font-family: inherit;
+  /* width: 100%; */
+  border: 0;
+  border-bottom: 2px solid gray;
+  outline: 0;
+  font-size: 1.3rem;
+  color: white;
+  padding: 7px;
+  background: transparent;
+}
+
+button:enabled:hover {
+  background-color: #eb1777;
+}
+
+button:enabled {
+  color: #fff;
+  border-color: #eb1777;
+}
+
+button {
+  color: #454545;
+  background: transparent;
+  border: 2px solid #454545;
+  margin: 1em;
+  padding: 0.4em 1em;
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  border-radius: 3px;
+}
